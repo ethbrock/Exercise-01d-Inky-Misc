@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Ethan Brock
 
-# Your Github username
+# ethbrock
